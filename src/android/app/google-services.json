@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "836352095359",
+    "project_id": "pokinia-calculator-flutter-dev",
+    "storage_bucket": "pokinia-calculator-flutter-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836352095359:android:0ebfa7c25e1ec51833bb4a",
+        "android_client_info": {
+          "package_name": "com.example.pokinia_calculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_FPIlScK0FP11_5lV0_yGmVZTAg2v1LI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
